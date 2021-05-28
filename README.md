@@ -1,4 +1,4 @@
 # WebViewRN
 ReactNative Web view for test on GamingBuddy.gg
 
-Preview images on Preview folder
+![Preview](https://github.com/wbhaese/WebViewRN/blob/master/Preview/(2).png)
